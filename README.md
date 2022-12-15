@@ -1,12 +1,14 @@
 # stackoverflow_corpus
 stack overflow 语料，可以用来训练代码类语言模型
 
-文件包括：
+## 文件包括：
 stackoverflow.R 数据抓取代码
+
 stack overflow top popular 1500个问题以及最优解答
+
 stack overflow #python tag下的全部回答
 
-数据样品：
+## 数据样品：
 
 <table>
 <tr>
@@ -24,7 +26,7 @@ stack overflow #python tag下的全部回答
 </table>
 
 
-声明：
+## 声明：
 1. 数据抓取自搭建的stack overflow镜像网站，请不要对stackoverflow.com使用高强度的爬虫。相关教程请参阅：[群晖上部署Kiwix搭建离线wiki百科](https://01miaom.github.io/xiaomiao.github.io/page/2.html)
 2. 数据收集过程已经尽量屏蔽了个人隐私信息，如果有残留的隐私信息我会第一时间删除
 3. 请不要将生成的对话用于stack overflow社区，这会污染社区的优质回答
