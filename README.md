@@ -25,7 +25,7 @@ stack overflow #python tag下的全部回答
 
 
 声明：
-1. 数据抓取自搭建的stack overflow镜像网站，请不要对stackoverflow.com使用高强度的爬虫
+1. 数据抓取自搭建的stack overflow镜像网站，请不要对stackoverflow.com使用高强度的爬虫。相关教程请参阅：https://01miaom.github.io/xiaomiao.github.io/page/2.html
 2. 数据收集过程已经尽量屏蔽了个人隐私信息，如果有残留的隐私信息我会第一时间删除
 3. 请不要将生成的对话用于stack overflow社区，这会污染社区的优质回答
 
